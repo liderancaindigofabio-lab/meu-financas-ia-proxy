@@ -1,0 +1,13 @@
+{
+  "name": "meu-financas-proxy",
+  "version": "2.0.0",
+  "type": "module",
+  "main": "server-v2.js",
+  "scripts": {
+    "start": "node server-v2.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
